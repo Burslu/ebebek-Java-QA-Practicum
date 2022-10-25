@@ -2,10 +2,10 @@ package E_Bebek;
 
 public class Employee {
 
-    protected String name;
-    protected double salary;
-    protected int workHours;
-    protected int    hireYear;
+    private String name;
+    private double salary;
+    private int workHours;
+    private int    hireYear;
 
     public Employee(String name, double salary, int workHours, int hireYear){
 
